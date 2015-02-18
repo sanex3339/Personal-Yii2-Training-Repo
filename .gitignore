@@ -27,7 +27,8 @@ Thumbs.db
 /vendor/fzaninotto
 /vendor/phpspec
 /vendor/swiftmailer
-/vendor/yiisoft
+/vendor/yiisoft/*
+!vendor/yiisoft/extensions.php
 
 # composer itself is not needed
 composer.phar
