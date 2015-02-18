@@ -1,0 +1,1094 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"flt",
+				"fltr-check"
+			],
+			[
+				"prop",
+				"properties"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"fltr",
+				"fltr-check"
+			],
+			[
+				"fltr-",
+				"fltr-cat"
+			],
+			[
+				"proper",
+				"properties"
+			],
+			[
+				"get",
+				"getParams"
+			],
+			[
+				"ge",
+				"getParams"
+			],
+			[
+				"empt",
+				"emptyText"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"strt",
+				"strtolower"
+			],
+			[
+				"array_di",
+				"array_diff_key"
+			],
+			[
+				"url",
+				"urlParams"
+			],
+			[
+				"crea",
+				"createFilter"
+			],
+			[
+				"pro",
+				"property"
+			],
+			[
+				"pr",
+				"property"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"filt",
+				"filters-wrapper"
+			],
+			[
+				"f",
+				"filter"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"in",
+				"inputName"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"ima",
+				"imagesPath"
+			],
+			[
+				"action",
+				"actionGetImages"
+			],
+			[
+				"slider",
+				"slider-control"
+			],
+			[
+				"slide",
+				"slider-control"
+			],
+			[
+				"nu",
+				"numButtons"
+			],
+			[
+				"images",
+				"imagesLength"
+			],
+			[
+				"n",
+				"numButtons"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"append",
+				"appendElements"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"c",
+				"content"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"temp",
+				"tempPath"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"save",
+				"savepath"
+			],
+			[
+				"sa",
+				"savepath"
+			],
+			[
+				"res",
+				"resized"
+			],
+			[
+				"cro",
+				"crop_h"
+			],
+			[
+				"cr",
+				"crop_h"
+			],
+			[
+				"crop",
+				"crop_w"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"he",
+				"hexagon-wrapper"
+			],
+			[
+				"hexa",
+				"hexagon-border-l"
+			],
+			[
+				"menu-",
+				"menu-list"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"dat",
+				"dataValue"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"exe",
+				"execArray"
+			],
+			[
+				"va",
+				"validateFlag"
+			],
+			[
+				"val",
+				"validateEmptyValues"
+			],
+			[
+				"validate",
+				"validateEmptyValue"
+			],
+			[
+				"input",
+				"inputData"
+			],
+			[
+				"da",
+				"dataType"
+			],
+			[
+				"vali",
+				"validateMsg"
+			],
+			[
+				"inp",
+				"inputData"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"err",
+				"error-autorize"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"border",
+				"border-spacing"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"bool",
+				"boolItem"
+			],
+			[
+				"boo",
+				"boolItemGroup"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ajax",
+				"ajax_validation_start"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"answ",
+				"answersDiffArray"
+			],
+			[
+				"question",
+				"questionsArray"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"test",
+				"testObject"
+			],
+			[
+				"ans",
+				"answersArr"
+			],
+			[
+				"qu",
+				"questions"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"men",
+				"menuData"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"exec",
+				"execute"
+			],
+			[
+				"where",
+				"where_str"
+			],
+			[
+				"draw",
+				"draw_table"
+			],
+			[
+				"u",
+				"user-table"
+			],
+			[
+				"asc",
+				"asc-sort"
+			],
+			[
+				"rgb",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"table",
+				"table-loading"
+			],
+			[
+				"desc",
+				"descSort"
+			],
+			[
+				"stm",
+				"stmt_val"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"ob_en",
+				"ob_end_clean"
+			],
+			[
+				"box",
+				"box_id"
+			],
+			[
+				"ga",
+				"gauge2_id"
+			],
+			[
+				"gaug",
+				"gauge2_id"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"ne",
+				"next_slide"
+			],
+			[
+				"nex",
+				"next_slide_f"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"ri",
+				"right-arrow-inactive"
+			],
+			[
+				"lef",
+				"left-arrow"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"repea",
+				"repeat-x"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "vendor/sanex/yii-catalog-module/controllers/CatalogController.php",
+			"settings":
+			{
+				"buffer_size": 2628,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/sanex/yii-catalog-module/views/catalog/catalog.php",
+			"settings":
+			{
+				"buffer_size": 2301,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/sanex/yii-catalog-module/views/catalog/catalog-ajax.php",
+			"settings":
+			{
+				"buffer_size": 884,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/sanex/yii-layout/site/js/filters.js",
+			"settings":
+			{
+				"buffer_size": 2977,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inste",
+				"Package Control: Install Package"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 560.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/js/vendor/jquery.query-object.js",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/js/filters.js",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/assets/LayoutAsset.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/css/style.css",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-blog-module/controllers/BlogController.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/models/Catalog.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/views/catalog/catalog-ajax.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/Bootstrap.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/controllers/CatalogController.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-blog-module/views/blog/create.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/views/catalog/catalog.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-blog-module/views/blog/blog.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-blog-module/views/blog/read.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/js/main.js",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/css/main.css",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/js/bootstrap.js",
+		"/Applications/MAMP/htdocs/hexal/advanced/backend/config/main.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/backend/controllers/SiteController.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/backend/views/site/index.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/common/config/aliases.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/frontend/web/index.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/backend/web/index.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/backend/config/main.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/.htaccess",
+		"/Applications/MAMP/htdocs/yii2/advanced/backend/web/.htaccess",
+		"/Applications/MAMP/htdocs/yii2/advanced/.htaccess",
+		"/Applications/MAMP/htdocs/yii2/advanced/backend/controllers/SiteController.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/backend/web/index.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/backend/config/bootstrap.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/common/config/main.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/common/config/aliases.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/backend/config/main-local.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/frontend/config/main.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/views/catalog/catalog-table.php",
+		"/Applications/MAMP/htdocs/test/js/main.js",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout-module/site/views/layouts/main.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/views/layouts/main.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/Module.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/yiisoft/extensions.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-blog-module/models/Post.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-site-module/views/default/error.php",
+		"/Applications/MAMP/htdocs/yii/basic/controllers/BlogController.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/vendor/sanex/yii-site-module/controllers/DefaultController.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/vendor/sanex/yii-site-module/views/default/error.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/vendor/sanex/yii-site-module/Bootstrap.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/common/config/main.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/common/config/main-local.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/frontend/config/params.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/frontend/config/params-local.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/frontend/config/main.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/frontend/config/main-local.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-site-module/controllers/DefaultController.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-blog-module/Bootstrap.php",
+		"/Applications/MAMP/htdocs/yii/basic/config/web.php",
+		"/Applications/MAMP/htdocs/yii/basic/config/params.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-blog-module/views/blog/blog 2.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/common/config/main-local.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-site-module/views/default/about.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-hexal-module/controllers/HexalController.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-blog-module/Module.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-hexal-module/components/Hexal.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout-module/site/js/main.js",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-hexal-module/Bootstrap.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/Bootstrap.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout-module/Module.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout-module/Bootstrap.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout-module/controllers/HexalController.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-site-module/views/default/index.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-site-module/views/default/slider.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/vendor/sanex/yii-layout/site/views/layouts/main.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout-module/site/assets/LayoutAsset.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-hexal-module/assets/LayoutAsset.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-hexal-module/Module.php",
+		"/Applications/MAMP/htdocs/hexal/old/hexagon/Hexagon.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout-module/site/css/style.css",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout-module/site/css/main.css",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-site-module/Bootstrap.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/vendor/sanex/yii-layout/Bootstrap.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/vendor/sanex/yii-layout/site/views/layouts/slider.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout-module/site/Layout.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/widgets/Alert.php",
+		"/Applications/MAMP/htdocs/hexal/old/js/main.js",
+		"/Applications/MAMP/htdocs/yii2/advanced/vendor/sanex/yii-layout/site/widgets/navbar/views/navbar.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/vendor/yiisoft/extensions.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/frontend/web/index.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/frontend/config/main-local.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/Layout.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/frontend/web/.htaccess",
+		"/Applications/MAMP/htdocs/yii2/advanced/common/config/params-local.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/common/config/params.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/vendor/autoload.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/common/config/params.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/common/config/params-local.php",
+		"/Applications/MAMP/conf/apache/extra/httpd-vhosts.conf",
+		"/Applications/MAMP/htdocs/yii2/advanced/environments/prod/frontend/config/params-local.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/environments/prod/frontend/config/main-local.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/environments/prod/common/config/params-local.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/environments/prod/common/config/main-local.php",
+		"/Applications/MAMP/bin/php/php5.5.10/conf/php.ini",
+		"/Applications/MAMP/conf/php5.5.10/php.ini",
+		"/Applications/MAMP/htdocs/yii2/advanced/frontend/web/.htaccess",
+		"/Applications/MAMP/htdocs/hexal/hexagon/Hexagon.php",
+		"/Applications/MAMP/htdocs/hexal/css/style-ie.css",
+		"/Applications/MAMP/htdocs/hexal/js/main.js",
+		"/Applications/MAMP/htdocs/hexal/css/main.css",
+		"/Applications/MAMP/htdocs/hexal/css/style.css",
+		"/Applications/MAMP/htdocs/hexal/index.php",
+		"/Applications/MAMP/htdocs/angelo/index.php",
+		"/Applications/MAMP/htdocs/hexal/index.html",
+		"/private/var/folders/r1/hs_g41fs6110jlxm616_wy6r0000gn/T/92bda7e0-54da-4f59-bca5-28c1361a91fa/www/site1/public_html/1_10.html",
+		"/private/var/folders/r1/hs_g41fs6110jlxm616_wy6r0000gn/T/92bda7e0-54da-4f59-bca5-28c1361a91fa/www/site1/public_html/1_11.html",
+		"/private/var/folders/r1/hs_g41fs6110jlxm616_wy6r0000gn/T/92bda7e0-54da-4f59-bca5-28c1361a91fa/www/site1/public_html/1_7.html",
+		"/private/var/folders/r1/hs_g41fs6110jlxm616_wy6r0000gn/T/92bda7e0-54da-4f59-bca5-28c1361a91fa/www/site1/public_html/1_6.html",
+		"/private/var/folders/r1/hs_g41fs6110jlxm616_wy6r0000gn/T/92bda7e0-54da-4f59-bca5-28c1361a91fa/www/site1/public_html/style.css",
+		"/private/var/folders/r1/hs_g41fs6110jlxm616_wy6r0000gn/T/92bda7e0-54da-4f59-bca5-28c1361a91fa/www/site1/public_html/kontacts.html",
+		"/Applications/MAMP/htdocs/yii2/advanced/vendor/sanex/yii-site-module/views/default/contact.php",
+		"/Applications/MAMP/htdocs/test/db.php",
+		"/Applications/MAMP/htdocs/autorize/autorize.sublime-project",
+		"/Applications/MAMP/htdocs/autorize/backend/ajax_autorize.php",
+		"/Applications/MAMP/htdocs/autorize/backend/db/db.php",
+		"/Users/sanex/Library/Application Support/Sublime Text 2/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/Applications/MAMP/htdocs/test/ajax_validate.php",
+		"/Applications/MAMP/htdocs/autorize/css/style.less",
+		"/Applications/MAMP/htdocs/test/css/style.css",
+		"/Applications/MAMP/htdocs/test/index2.php",
+		"/Applications/MAMP/htdocs/test/index.php",
+		"/Applications/MAMP/htdocs/autorize/css/style.css",
+		"/Applications/MAMP/htdocs/test/ajax_autorize.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tempname",
+			"inputname",
+			"string",
+			"remove",
+			"location",
+			"$k",
+			"ajax",
+			"outline",
+			"id",
+			"title",
+			"footer",
+			"content",
+			"w-",
+			"raw",
+			"meta",
+			"sha1",
+			"some",
+			"zend",
+			"xdeb",
+			"xdebug",
+			"debug",
+			"zend",
+			"flag",
+			"alert",
+			"url",
+			"./",
+			"..",
+			"img",
+			"path",
+			"bg-",
+			"bg=",
+			"js",
+			"img",
+			"jpg",
+			"img",
+			"alert",
+			"module",
+			"instance",
+			"mail",
+			"mailer",
+			"$app->mailer",
+			"mail",
+			"asset",
+			"bootst",
+			"mcrypt",
+			"popup",
+			"label",
+			"select",
+			"button",
+			"form",
+			"bold",
+			"input",
+			"create",
+			"missing",
+			"NotFoundHttpException",
+			"name",
+			"timezone",
+			"test",
+			"showtes",
+			"testID",
+			"abo",
+			"time.",
+			"timezone",
+			"paren",
+			"twig",
+			"acme",
+			"passw",
+			"passwor",
+			"menu",
+			"menu ",
+			"id",
+			"12",
+			"24",
+			"site",
+			"hover",
+			"active",
+			"actove",
+			"read-m",
+			"button",
+			"wrap",
+			"content",
+			"550",
+			"href",
+			"ркуа",
+			">\n",
+			"bootstra",
+			"bootstrap",
+			"bootstra",
+			"echo",
+			"password",
+			"AllowNoPassword",
+			"password",
+			"AllowNoPasswordRoot",
+			"$cfg['Servers'][$i]['AllowNoPasswordRoot']",
+			"password",
+			"navbar",
+			"database",
+			"_",
+			"dbname",
+			"_",
+			"__",
+			"success",
+			"login",
+			"db",
+			"stmt_val",
+			"val",
+			"formdata",
+			"login",
+			"$values",
+			"default",
+			"number",
+			"slider",
+			"error_reporting  =  E_ALL\ndisplay",
+			"error_reporting  =  E_ALL\ndisplay_errors",
+			"error",
+			"errpr",
+			"view-m",
+			"62b9b0",
+			"folor",
+			"html",
+			"body",
+			"continue",
+			"rtualHost",
+			"NameVirtualHost",
+			"# NameVirtualHost",
+			"angelo",
+			"ameVirtualHost * ",
+			"# NameVirtualHost * "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"../img/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "vendor/sanex/yii-catalog-module/controllers/CatalogController.php",
+					"settings":
+					{
+						"buffer_size": 2628,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "vendor/sanex/yii-catalog-module/views/catalog/catalog.php",
+					"settings":
+					{
+						"buffer_size": 2301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1730,
+								1730
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "vendor/sanex/yii-catalog-module/views/catalog/catalog-ajax.php",
+					"settings":
+					{
+						"buffer_size": 884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								736,
+								736
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "vendor/sanex/yii-layout/site/js/filters.js",
+					"settings":
+					{
+						"buffer_size": 2977,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.539018900189,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 220.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true
+}

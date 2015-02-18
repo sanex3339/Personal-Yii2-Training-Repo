@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"path": "vendor/sanex"
+		},
+		{
+			"path": "vendor/sanex/yii-layout/site"
+		},
+		{
+			"path": "/Applications/MAMP/htdocs/hexal/advanced"
+		},
+		{
+			"path": "frontend"
+		}
+	]
+}

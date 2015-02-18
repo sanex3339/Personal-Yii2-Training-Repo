@@ -1,0 +1,41 @@
+# yii console command
+/yii
+
+# phpstorm project files
+.idea
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# tests
+/tests
+
+# windows thumbnail cache
+Thumbs.db
+
+# composer vendor dir
+/vendor/bin
+/vendor/bower
+/vendor/cebe
+/vendor/composer
+/vendor/ezyang
+/vendor/fzaninotto
+/vendor/phpspec
+/vendor/swiftmailer
+/vendor/yiisoft
+
+# composer itself is not needed
+composer.phar
+
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit itself is not needed
+phpunit.phar
+# local phpunit config
+/phpunit.xml
