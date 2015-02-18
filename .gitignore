@@ -19,6 +19,7 @@ nbproject
 Thumbs.db
 
 # composer vendor dir
+/vendor/sanex/yii-layout/site/template
 /vendor/bin
 /vendor/bower
 /vendor/cebe
