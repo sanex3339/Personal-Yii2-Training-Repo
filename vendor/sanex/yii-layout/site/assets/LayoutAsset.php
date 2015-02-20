@@ -15,17 +15,14 @@ class LayoutAsset extends AssetBundle
     
 
     public $css = [
-        'css/bootstrap.css',
-        'css/normalize.css',
-        'css/main.css',
-        'css/style.css',
+        '//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css',
+        'css/main.css'
     ];
 
     public $js = [
-        'js/vendor/modernizr-2.6.2.min.js',
-        'js/vendor/jquery.query-object.js',
-        'js/plugins.js',
-        'js/main.js',
+        //'https://code.jquery.com/jquery-1.11.2.min.js',
+        '//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js',
+        'js/main.js'
         //'http://jek-fdrv.16mb.com/pixp/pixp.js',
     ];
 

@@ -332,6 +332,8 @@
 
 .layout-1 > .content p 
 {
+	margin-right: 20px;
+
 	color: #d7fcf5;
 	font-size: 12px;
 }
@@ -425,7 +427,7 @@
 	border-top: 1px solid #2b2b2b;
 	border-bottom: 1px solid #2b2b2b;
 	
-	padding: 53px 90px 53px 90px;
+	padding: 53px 0px;
 
 	margin: 0 auto;
 	width: 779px;
@@ -500,8 +502,8 @@
 {
 	float: right;
 
-	width: 90px;
-	height: 37px;
+	width: 70px;
+	height: 17px;
 
 	padding: 10px;
 

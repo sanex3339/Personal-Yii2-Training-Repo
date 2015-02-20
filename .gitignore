@@ -27,6 +27,9 @@ Thumbs.db
 /vendor/fzaninotto
 /vendor/phpspec
 /vendor/swiftmailer
+/vendor/sanex/yii-layout/site1
+/vendor/sanex/yii-layout/site/node_modules
+/vendor/sanex/yii-layout/site/vendor
 /vendor/yiisoft/*
 !vendor/yiisoft/extensions.php
 

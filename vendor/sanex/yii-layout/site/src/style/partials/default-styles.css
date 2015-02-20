@@ -9,6 +9,17 @@
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
+* {
+  -webkit-box-sizing: content-box!important;
+     -moz-box-sizing: content-box!important;
+          box-sizing: content-box!important;
+}
+*:before,
+*:after {
+  -webkit-box-sizing: content-box!important;
+     -moz-box-sizing: content-box!important;
+          box-sizing: content-box!important;
+}
 
 html,
 button,

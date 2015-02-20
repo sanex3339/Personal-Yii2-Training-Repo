@@ -12,7 +12,7 @@
     $this->title = 'Blog';
     $this->params['breadcrumbs'][] = $this->title;
 
-    $this->registerJsFile(Yii::$app->assetManager->getPublishedUrl('@sanex/layout/site').'/js/filters.js', ['depends' => ['yii\web\JqueryAsset']]);
+    //$this->registerJsFile(Yii::$app->assetManager->getPublishedUrl('@sanex/layout/site').'/js/filters.js', ['depends' => ['yii\web\JqueryAsset']]);
 ?>
 <?php \yii\widgets\Pjax::begin(); ?>
     <?= GridView::widget([
