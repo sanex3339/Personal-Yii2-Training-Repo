@@ -53,6 +53,16 @@ return array (
     ),
     'bootstrap' => 'sanex\\catalog\\Bootstrap',
   ),
+  'sanex/yii-filter-module' => 
+  array (
+    'name' => 'sanex/yii-filter-module',
+    'version' => '9999999-dev',
+    'alias' => 
+    array (
+      '@sanex/filter' => $vendorDir . '/sanex/yii-filter-module',
+    ),
+    'bootstrap' => 'sanex\\filter\\Bootstrap',
+  ),
   'yiisoft/yii2-swiftmailer' => 
   array (
     'name' => 'yiisoft/yii2-swiftmailer',

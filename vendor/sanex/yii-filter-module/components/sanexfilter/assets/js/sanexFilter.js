@@ -85,7 +85,7 @@ $(document).ready(function() {
 
 	function sendFilter(filter) {
 		$.ajax({
-	       url: '/catalog/',
+	       url: '/show-data-ajax/',
 	       type: 'POST',
 	       data: {
 	       		_csrf: yii.getCsrfToken(),

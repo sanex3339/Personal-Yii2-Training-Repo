@@ -54,6 +54,9 @@ return [
         'catalog' => [
             'class' => 'sanex\catalog\Module',
         ],
+        'filter' => [
+            'class' => 'sanex\filter\SanexFilter',
+        ],
     ],
     'params' => $params,
 ];

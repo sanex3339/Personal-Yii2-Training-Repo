@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"stat",
+				"static"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"model",
+				"modelData"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"isa",
+				"is_array"
+			],
+			[
 				"flt",
 				"fltr-check"
 			],
@@ -494,22 +514,6 @@
 			[
 				"z",
 				"z-index"
-			],
-			[
-				"pos",
-				"position"
-			],
-			[
-				"d",
-				"display"
-			],
-			[
-				"list",
-				"list-style"
-			],
-			[
-				"repea",
-				"repeat-x"
 			]
 		]
 	},
@@ -519,7 +523,15 @@
 			"file": "vendor/sanex/yii-catalog-module/controllers/CatalogController.php",
 			"settings":
 			{
-				"buffer_size": 2628,
+				"buffer_size": 887,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/sanex/yii-catalog-module/components/sanexfilter/SanexFilter.php",
+			"settings":
+			{
+				"buffer_size": 4900,
 				"line_ending": "Unix"
 			}
 		},
@@ -527,7 +539,31 @@
 			"file": "vendor/sanex/yii-catalog-module/views/catalog/catalog.php",
 			"settings":
 			{
-				"buffer_size": 2301,
+				"buffer_size": 1902,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/sanex/yii-catalog-module/components/sanexfilter/SanexFilterAsset.php",
+			"settings":
+			{
+				"buffer_size": 956,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/sanex/yii-layout/site/assets/LayoutAsset.php",
+			"settings":
+			{
+				"buffer_size": 699,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/sanex/yii-catalog-module/components/sanexfilter/views/sanexFilterView.php",
+			"settings":
+			{
+				"buffer_size": 490,
 				"line_ending": "Unix"
 			}
 		},
@@ -535,12 +571,20 @@
 			"file": "vendor/sanex/yii-catalog-module/views/catalog/catalog-ajax.php",
 			"settings":
 			{
-				"buffer_size": 884,
+				"buffer_size": 886,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "vendor/sanex/yii-layout/site/js/filters.js",
+			"file": "vendor/sanex/yii-blog-module/views/blog/blog.php",
+			"settings":
+			{
+				"buffer_size": 2931,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "vendor/sanex/yii-catalog-module/components/sanexfilter/assets/js/sanexFilter.js",
 			"settings":
 			{
 				"buffer_size": 2977,
@@ -592,17 +636,29 @@
 	},
 	"file_history":
 	[
-		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/js/vendor/jquery.query-object.js",
-		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/js/filters.js",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/components/sanexfilter/SanexFilterAjax.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/components/sanexfilter/Test.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/Bootstrap.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/components/sanexfilter/SanexFilter.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/models/Catalog.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/src/js/partials/filters.js",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/components/views/sanexFilterView.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/src/js/main.js",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/components/sanexfilter/assets/js/sanexFilter.js",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/components/sanexfilter/assets/css/sanexFilter.css",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/src/style/partials/styles.css",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/gulpfile.js",
 		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/assets/LayoutAsset.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/components/SanexFilter.php",
+		"/Applications/MAMP/htdocs/yii2/advanced/vendor/sanex/yii-layout/site/widgets/navbar/views/navbar.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/views/catalog/catalog-ajax.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/controllers/CatalogController.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/views/catalog/catalog.php",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/js/filters.js",
+		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/js/vendor/jquery.query-object.js",
 		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/css/style.css",
 		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-blog-module/controllers/BlogController.php",
-		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/models/Catalog.php",
-		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/views/catalog/catalog-ajax.php",
-		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/Bootstrap.php",
-		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/controllers/CatalogController.php",
 		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-blog-module/views/blog/create.php",
-		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-catalog-module/views/catalog/catalog.php",
 		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-blog-module/views/blog/blog.php",
 		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-blog-module/views/blog/read.php",
 		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/js/main.js",
@@ -674,7 +730,6 @@
 		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout-module/site/Layout.php",
 		"/Applications/MAMP/htdocs/hexal/advanced/vendor/sanex/yii-layout/site/widgets/Alert.php",
 		"/Applications/MAMP/htdocs/hexal/old/js/main.js",
-		"/Applications/MAMP/htdocs/yii2/advanced/vendor/sanex/yii-layout/site/widgets/navbar/views/navbar.php",
 		"/Applications/MAMP/htdocs/yii2/advanced/vendor/yiisoft/extensions.php",
 		"/Applications/MAMP/htdocs/yii2/advanced/frontend/web/index.php",
 		"/Applications/MAMP/htdocs/hexal/advanced/frontend/config/main-local.php",
@@ -708,18 +763,7 @@
 		"/private/var/folders/r1/hs_g41fs6110jlxm616_wy6r0000gn/T/92bda7e0-54da-4f59-bca5-28c1361a91fa/www/site1/public_html/style.css",
 		"/private/var/folders/r1/hs_g41fs6110jlxm616_wy6r0000gn/T/92bda7e0-54da-4f59-bca5-28c1361a91fa/www/site1/public_html/kontacts.html",
 		"/Applications/MAMP/htdocs/yii2/advanced/vendor/sanex/yii-site-module/views/default/contact.php",
-		"/Applications/MAMP/htdocs/test/db.php",
-		"/Applications/MAMP/htdocs/autorize/autorize.sublime-project",
-		"/Applications/MAMP/htdocs/autorize/backend/ajax_autorize.php",
-		"/Applications/MAMP/htdocs/autorize/backend/db/db.php",
-		"/Users/sanex/Library/Application Support/Sublime Text 2/Packages/Xdebug Client/Xdebug.sublime-settings",
-		"/Applications/MAMP/htdocs/test/ajax_validate.php",
-		"/Applications/MAMP/htdocs/autorize/css/style.less",
-		"/Applications/MAMP/htdocs/test/css/style.css",
-		"/Applications/MAMP/htdocs/test/index2.php",
-		"/Applications/MAMP/htdocs/test/index.php",
-		"/Applications/MAMP/htdocs/autorize/css/style.css",
-		"/Applications/MAMP/htdocs/test/ajax_autorize.php"
+		"/Applications/MAMP/htdocs/test/db.php"
 	],
 	"find":
 	{
@@ -737,6 +781,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"filters",
+			"filter",
 			"tempname",
 			"inputname",
 			"string",
@@ -862,9 +908,7 @@
 			"rtualHost",
 			"NameVirtualHost",
 			"# NameVirtualHost",
-			"angelo",
-			"ameVirtualHost * ",
-			"# NameVirtualHost * "
+			"angelo"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -891,14 +935,228 @@
 					"file": "vendor/sanex/yii-catalog-module/controllers/CatalogController.php",
 					"settings":
 					{
-						"buffer_size": 2628,
+						"buffer_size": 887,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5,
+								258,
+								276
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 94.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "vendor/sanex/yii-catalog-module/components/sanexfilter/SanexFilter.php",
+					"settings":
+					{
+						"buffer_size": 4900,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								323
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 546.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "vendor/sanex/yii-catalog-module/views/catalog/catalog.php",
+					"settings":
+					{
+						"buffer_size": 1902,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1759,
+								1869
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 110.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "vendor/sanex/yii-catalog-module/components/sanexfilter/SanexFilterAsset.php",
+					"settings":
+					{
+						"buffer_size": 956,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								285,
+								285
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 20.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "vendor/sanex/yii-layout/site/assets/LayoutAsset.php",
+					"settings":
+					{
+						"buffer_size": 699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								17
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "vendor/sanex/yii-catalog-module/components/sanexfilter/views/sanexFilterView.php",
+					"settings":
+					{
+						"buffer_size": 490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								490,
+								490
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "vendor/sanex/yii-catalog-module/views/catalog/catalog-ajax.php",
+					"settings":
+					{
+						"buffer_size": 886,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								655,
+								655
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "vendor/sanex/yii-blog-module/views/blog/blog.php",
+					"settings":
+					{
+						"buffer_size": 2931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
 								0
 							]
 						],
@@ -912,82 +1170,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "vendor/sanex/yii-catalog-module/views/catalog/catalog.php",
-					"settings":
-					{
-						"buffer_size": 2301,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1730,
-								1730
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "vendor/sanex/yii-catalog-module/views/catalog/catalog-ajax.php",
-					"settings":
-					{
-						"buffer_size": 884,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								736,
-								736
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 3,
-					"file": "vendor/sanex/yii-layout/site/js/filters.js",
+					"buffer": 8,
+					"file": "vendor/sanex/yii-catalog-module/components/sanexfilter/assets/js/sanexFilter.js",
 					"settings":
 					{
 						"buffer_size": 2977,
@@ -997,8 +1187,8 @@
 						"selection":
 						[
 							[
-								188,
-								188
+								2657,
+								2657
 							]
 						],
 						"settings":
@@ -1010,7 +1200,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1040.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1035,18 +1225,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.539018900189,
 			1.0
 		],
 		"rows":
