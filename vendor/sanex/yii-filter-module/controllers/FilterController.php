@@ -8,6 +8,7 @@ use yii\helpers\FileHelper;
 use yii\web\Controller;
 use yii\web\ErrorAction;
 use yii\web\NotFoundHttpException;
+use yii\web\Session;
 
 class FilterController extends Controller
 {
@@ -26,6 +27,11 @@ class FilterController extends Controller
     {
         $module = $this->module;
         $filter = $module->params['filter']['filter'];
+
+        if (!$filter)
+            throw new NotFoundHttpException("Invalid or empty filter properties", 1);
+        if (!is_array($filter))
+            throw new NotFoundHttpException("Filter properties must be as array", 1);
 
         return $this->renderPartial('filter', [
             'filter' => $filter
@@ -74,10 +80,10 @@ class FilterController extends Controller
 
     public function actionShowDataPost()
     {
-        $module = $this->module;
-        $modelClass = 'sanex\catalog\models\Catalog';
-        $view = '@sanex/catalog/views/catalog/catalog-ajax';
-        //$modelClass = $module->params['filter']['model'];
+        $filter = Yii::$app->getModule('filter')->session['SanexFilter'];
+        $modelClass = $filter['model'];
+        $view = $filter['view'];
+
         $model = new $modelClass;
         $attributes = $model->attributes();
 

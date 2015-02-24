@@ -26,10 +26,12 @@ class CatalogController extends Controller
     {
         $modelName = 'sanex\catalog\models\Catalog';
         $viewFile = '@sanex/catalog/views/catalog/catalog-ajax';
+        $filter = Yii::$app->getModule('filter');
 
         return $this->render('catalog', [
             'modelName' => $modelName,
-            'viewFile' => $viewFile
+            'viewFile' => $viewFile,
+            'filter' => $filter
         ]);
     }
 }

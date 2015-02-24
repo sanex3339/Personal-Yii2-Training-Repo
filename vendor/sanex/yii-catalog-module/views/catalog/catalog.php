@@ -14,7 +14,6 @@
 <div class="layout-main">
     <div class="content clearfix">
         <h2><?=Html::encode($this->title)?></h2>
-        <?php $filter = \Yii::$app->getModule('filter')?>
         <?=$filter->setFilter([
             'filter' => 
             [
