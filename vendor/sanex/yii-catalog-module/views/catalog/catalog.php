@@ -8,8 +8,6 @@
 
     $this->title = 'Blog';
     $this->params['breadcrumbs'][] = $this->title;
-
-    //$this->registerJsFile(Yii::$app->assetManager->getPublishedUrl('@sanex/layout/site').'/js/filters.js', ['depends' => ['yii\web\JqueryAsset']]);
 ?>
 <div class="layout-main">
     <div class="content clearfix">
@@ -50,12 +48,6 @@
             'viewFile' => $viewFile,
             'setDataProvider' => true
         ])?>
-        <br />
-        <br />
-        <div class="table-data">
-            <?= $this->render($viewFile, [
-                'data' => $filter->getData()
-            ]) ?>
-        </div>
+        <?=$filter->renderDataView()?>
     </div>
 </div>
