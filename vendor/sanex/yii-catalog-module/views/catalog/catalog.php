@@ -46,14 +46,15 @@
                     ]
                 ]
             ], 
-            'model' => $modelName,
-            'view' => $viewFile
+            'modelClass' => $modelClass,
+            'viewFile' => $viewFile,
+            'setDataProvider' => true
         ])?>
         <br />
         <br />
         <div class="table-data">
             <?= $this->render($viewFile, [
-                'dataProvider' => $filter->getData()
+                'data' => $filter->getData()
             ]) ?>
         </div>
     </div>

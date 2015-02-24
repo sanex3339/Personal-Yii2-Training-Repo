@@ -12,7 +12,7 @@
 ?>
 <?php \yii\widgets\Pjax::begin(); ?>
     <?= GridView::widget([
-        'dataProvider' => $dataProvider,
+        'dataProvider' => $data,
         'columns' => [
             'id',
             'name',

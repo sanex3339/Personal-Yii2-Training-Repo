@@ -24,12 +24,12 @@ class CatalogController extends Controller
 
     public function actionShowCatalog()
     {
-        $modelName = 'sanex\catalog\models\Catalog';
+        $modelClass = 'sanex\catalog\models\Catalog';
         $viewFile = '@sanex/catalog/views/catalog/catalog-ajax';
         $filter = Yii::$app->getModule('filter');
 
         return $this->render('catalog', [
-            'modelName' => $modelName,
+            'modelClass' => $modelClass,
             'viewFile' => $viewFile,
             'filter' => $filter
         ]);
