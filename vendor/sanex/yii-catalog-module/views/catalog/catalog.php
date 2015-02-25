@@ -13,41 +13,35 @@
     <div class="content clearfix">
         <h2><?=Html::encode($this->title)?></h2>
         <?=$filter->setFilter([
-            'filter' => 
             [
-                [
-                    'property' => 'color',
-                    'caption' => 'Цвет',
-                    'values' => [
-                        'Красный',
-                        'Зеленый',
-                        'Синий',
-                        'Черный'
-                    ]
-                ],
-                [
-                    'property' => 'country',
-                    'caption' => 'Страна',
-                    'values' => [
-                        'Россия',
-                        'Украина',
-                        'США'
-                    ]
-                ],
-                [
-                    'property' => 'size',
-                    'caption' => 'Размер',
-                    'values' => [
-                        '45x45',
-                        '50x50',
-                        '60x60'
-                    ]
+                'property' => 'color',
+                'caption' => 'Цвет',
+                'values' => [
+                    'Красный',
+                    'Зеленый',
+                    'Синий',
+                    'Черный'
                 ]
-            ], 
-            'modelClass' => $modelClass,
-            'viewFile' => $viewFile,
-            'setDataProvider' => true
+            ],
+            [
+                'property' => 'country',
+                'caption' => 'Страна',
+                'values' => [
+                    'Россия',
+                    'Украина',
+                    'США'
+                ]
+            ],
+            [
+                'property' => 'size',
+                'caption' => 'Размер',
+                'values' => [
+                    '45x45',
+                    '50x50',
+                    '60x60'
+                ]
+            ]
         ])?>
-        <?=$filter->renderDataView()?>
+        <?=$filter->renderDataView($viewFile, $modelClass, 1)?>
     </div>
 </div>
